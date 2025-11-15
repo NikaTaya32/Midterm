@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Midterm</string>
+    <string name="cart">Cart</string>
+    <string name="discusses_the_factors">Discusses the factors that make a logo successful by analyzing the research, brainstorming, sketching, and stylistic experiments that led to its development</string>
+    <string name="start_shopping">Start Shopping</string>
+    <string name="search">Search</string>
+    <string name="official_store">official store</string>
+    <string name="free_delivery">free delivery</string>
+    <string name="_149">149₾</string>
+    <string name="_120">120$</string>
+    <string name="offers">Offers</string>
+    <string name="various_installment_options">Various Installment Options</string>
+    <string name="monthly_installment">Monthly Installment</string>
+    <string name="jumia_birthday">Jumia Birthday</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="my_cart">My Cart</string>
+    <string name="this_product_is_very_important_and_most_seller">This Product Is Very Important And Most Seller</string>
+    <string name="oil">Oil</string>
+    <string name="place_order">Place Order</string>
+    <string name="_240">120 $</string>
+    <string name="total">Total</string>
+    <string name="subtotal_2_items">Subtotal (2 items)</string>
+    <string name="payment_successful">Payment Successful!</string>
+</resources>
